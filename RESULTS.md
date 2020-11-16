@@ -24,6 +24,6 @@ During the experiment, the participants will experience a new command called "GI
 ## Conclusion
 1. All the participants have faced merge conflict issue while using GIT and nearly all the participants find it difficult to fix merge conflict.
 2. 90% Participants found it easy to install our project.
-3. All the participants found it very easy to fix merge conflict using "GITS SYNC" command of our project and they are likely to recommend this feature of our project to others.
+3. All the participants found it very easy to fix merge conflict using "GITS SYNC" command of our project as they didn't have to go through the manual and time consuming process of fixing those merge conflicts. Participants are likely to recommend this feature of our project to others.
 
 ## Threats to Validity
