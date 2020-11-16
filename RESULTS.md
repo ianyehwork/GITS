@@ -19,7 +19,12 @@ During the experiment, the participants will experience a new command called "GI
 <img src="/img/post2.png">
 <img src="/img/post3.png">
 
-## Analysis
+## Analysis  
+When looking at the graphs, we can find a very strong correlation between the ratings. Majority of the candidates (60%) had familiarity with GIT. Following along, everyone of them (even less familiar candidates) said that they had experienced merge conflict. The numbers also state that this is not a simple matter which can be resolved quickly, but indeed can consume a lot of efforts. This indicates that the issue is a common problem, justifying the need to make a project towards solving that issue. The objective is quite fruitful and can help a lot. 
+  
+We can see that we have a majority of candidates saying that it is easy to install as well. Here, the difference in familirtiy with GIT or conflicts does not matter because experience will get better for everybody if the install process can be made more convinient. So ideal result expected here could be to have almost all of the users say that the software is easy to install. Thus we can say that there can be some scope of improvement when it comes to setting up the project on a system.  
+  
+When it comes to checking if a candidate would recommend it to someone, the project got very good rating(8/10). This indicates that once set up, the project is easy to use and configure. Additionally it indicates that the project has an edge at the handling conflicts. This points to good implementation.
 
 ## Conclusion
 1. All the participants have faced merge conflict issue while using GIT and nearly all the participants find it difficult to fix merge conflict.
