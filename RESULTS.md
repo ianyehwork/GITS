@@ -1,4 +1,15 @@
 ## Methodology
+Our experimentation with this project can be divided into two parts- the black box testing and a comparitive study.
+- Black box testing- This included following set of instructions for a variety of purposes like-
+  Downloading and installing this project including all the requirements.
+  Executing the project efficiently and understanding how it works.
+  Using the project for user's customised usage.
+- Comparative Study- Since our project is a simplified version of git, it is very important to determine the difference between the two and contrast it briefly to understand the pros and cons of both. For the same, we conducted an experiment.
+Step1- We asked the user to create a repo with a readme file and then clone it on their system after installing the project.
+Step2- The user was asked to edit the readme file locally.
+Step3- User then would commit changes on github, thus creating a merge conflict when he would later push the changes from the local machine.
+Step4- We allowed the user to try to solve merge conflicts by himself using the traditional git commands.
+Step5- We then facilitated the usage of GITS SYNC command to do the above task and surveyed the user on the basis of ease of solving conflicts, how likely the user will use this functionality and how smooth the process turned into.
 
 ## Material
 
