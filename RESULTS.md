@@ -12,6 +12,12 @@ Step4- We allowed the user to try to solve merge conflicts by himself using the 
 Step5- We then facilitated the usage of GITS SYNC command to do the above task and surveyed the user on the basis of ease of solving conflicts, how likely the user will use this functionality and how smooth the process turned into.
 
 ## Material
+We have created tokens for all the subjects and provided a google sheet which contains all the information about the project like the installation and execution details. In the same sheet we collected various information regarding the project. 
+
+Link of the google form provided to the subjects: 
+https://docs.google.com/forms/d/e/1FAIpQLSdRDh9DgdLSv1dD658WDDeiEZ7Jex9fBWSWs8hhNn64549gRw/viewform
+
+Link to the project: https://github.com/ianyehwork/GITS
 
 ## Observations
 During the experiment, the participants will experience a new command called "GITS SYNC" that resolve the merge conflict situation when they push to the GitHub repository. It is important to know the participant's level of mastery on the Git commands. Also, we want to compare what the participants think to solve merge conflict in the traditional way v.s. GITS SYNC.
